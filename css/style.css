@@ -58,7 +58,7 @@ h3{
 	width: 100%;
 	height: 100%;
 	display: table;
-	margin: 50px 0 50px 0;
+	margin: 0px 0 50px 0;
 	align-content: center;
 }
 
@@ -107,7 +107,7 @@ h3{
 	font-size: 18px;
 	font-weight: 400px;
 	color: #17252A;
-	margin: 0px 250px 30px 250px;
+	/*margin: 0px 250px 30px 250px;*/
 
 }
 
@@ -139,7 +139,7 @@ h3{
 	-webkit-border-radius:30px;
 	-moz-border-radius:30px;
 	border-radius:30px;
-	margin: 20px 10px 50px 10px;
+	margin: 20px 10px 20px 10px;
 
 
 }
@@ -172,7 +172,7 @@ h3{
 	-webkit-border-radius:30px;
 	-moz-border-radius:30px;
 	border-radius:30px;
-	margin: 20px 10px 50px 10px;
+	margin: 20px 10px 20px 10px;
 
 
 }
@@ -219,25 +219,26 @@ h3{
 	background-color: #17252A;
 }
 
+#sec4{
+	
+}
+
 #section4-heading h3{
-	color:  #ffffff;
-	font-size: 55px;
+	font-size: 35px;
+	color: #FEFFFF;
 	font-weight: 700;
-	text-align: left;
-	background-position: center;
-	margin: 70px 100px 70px 150px;
-	/*text-transform: none;*/
-	vertical-align: middle;
+	text-align: center;
+	margin: 0 20px 30px 20px;
 }
 
 #section4-para p{
 	color: #FEFFFF;
 	font-size: 16px;
 	font-weight: 400px;
-	text-align: left;
 	padding-left: 20px;
 	background-position: center;
-	margin: 50px 50px 50px 0px;
+   	padding: 6px 150px;
+   	position: relative;  
 }
 
 
